@@ -1,0 +1,7 @@
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\bin\Debug\File Behaviour.exe.config
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\bin\Debug\File Behaviour.exe
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\bin\Debug\File Behaviour.pdb
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\obj\Debug\File Behaviour.csprojAssemblyReference.cache
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\obj\Debug\File Behaviour.csproj.CoreCompileInputs.cache
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\obj\Debug\File Behaviour.exe
+C:\Users\u1470723\Documents\Projects\File Behaviour\File Behaviour\obj\Debug\File Behaviour.pdb
