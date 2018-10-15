@@ -47,6 +47,8 @@ namespace File_Behaviour
             String formattedString = timestamp + comma;
             formattedString += name + comma;
             formattedString += path + comma;
+            formattedString += comma;
+            formattedString += comma;
             formattedString += type;
 
             sema.WaitOne();
